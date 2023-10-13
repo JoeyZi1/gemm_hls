@@ -212,3 +212,4 @@ endif()
 if(MM_POWER_METER)
   target_link_libraries(RunHardware.exe powermeter)
 endif()
+
